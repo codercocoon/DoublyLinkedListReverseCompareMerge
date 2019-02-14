@@ -1,11 +1,11 @@
-package com.codercocoon.DoublyLinkedList;
+package javaspringexamples.DoublyLinkedList;
 
 /**
  * This class represents some operations about doubly linked lists, especially
  * how to reverse a doubly linked list, compare and merge two sorted doubly
  * linked lists.
  * 
- * @author contact@codercocoon.com.
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class ReverseCompareMerge {

@@ -1,4 +1,4 @@
-package com.codercocoon.DoublyLinkedList;
+package javaspringexamples.DoublyLinkedList;
 
 import java.util.Scanner;
 

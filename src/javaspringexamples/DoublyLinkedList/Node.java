@@ -1,4 +1,4 @@
-package com.codercocoon.DoublyLinkedList;
+package javaspringexamples.DoublyLinkedList;
 
 public class Node {
 	Node previous;
